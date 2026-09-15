@@ -7,7 +7,7 @@ it is thrown away. When you are stuck, it shows you the exact clue that forces t
 
 No ads. No account. No subscription. Works offline.
 
-**Live: https://forced-two.vercel.app**
+**Live: https://forced.vercel.app**
 
 ---
 
